@@ -44,7 +44,7 @@ python -m pip install -r requirements.txt
 The experiments use labeled, tabular intrusion-detection data derived from two
 public benchmarks:
 
-- [Edge-IIoTset](https://ieee-dataport.org/8939), originally released for
+- [Edge-IIoTset](https://doi.org/10.21227/mbc1-1h68), originally released for
   centralized and federated IoT/IIoT intrusion detection.
 - [CICIoT2023](https://www.unb.ca/cic/datasets/iotdataset-2023.html), collected
   from a 105-device IoT topology under benign traffic and 33 attacks.
