@@ -101,7 +101,7 @@ Run a short FedMOSAIC experiment before launching the complete benchmark:
 python run_experiment.py \
   --dataset edgeiiot \
   --method fedmosaic \
-  --seed 0 \
+  --seed 99 \
   --rounds 2 \
   --local-steps 1 \
   --overwrite
